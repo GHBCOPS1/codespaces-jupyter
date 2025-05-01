@@ -4,3 +4,7 @@ from rdkit.Chem import Draw
 IpythonConsole.ipython_use SVG = True # use SVG for higher quality images
 IpythonConsole.drawOptions.addAtomIndices = True # show atom indices
 IpythonConsole.molsize = 250, 250 # set size of image
+# Using the Tab key
+Benzene 
+
+Show number of atoms
